@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+#box {
+    width: 300px;
+    height: 300px ;
+}
+
+#btn{
+    height: 100px;
+    width: 200px;
+    font-size: 30px;
+    border: solid green 5px;
+}
